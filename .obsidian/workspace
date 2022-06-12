@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ddd6f6f54667fcae",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e2a83a0e918868",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "API Endpoints/Index.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f151b2ee356a386",
+    "type": "split",
+    "children": [
+      {
+        "id": "b083ddd1f7692285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6820740ef9b87a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf91c2f9bfd09907",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "479ecfd5d1f5262e",
+    "type": "split",
+    "children": [
+      {
+        "id": "21db1a84929d0c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d1d619a1812eb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API Endpoints/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "02e2a83a0e918868",
+  "lastOpenFiles": [
+    "API Endpoints/Index.md",
+    "API Endpoints/API Docs.md",
+    "Index.md",
+    "API.md",
+    "API Endpoints.md",
+    "templates/API Endpoint.md",
+    "templates/Model.md",
+    "Untitled 1.md"
+  ]
+}
