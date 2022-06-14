@@ -1,4 +1,4 @@
-# `GET /`
+# `GET /api/v1`
 
 API index
 
