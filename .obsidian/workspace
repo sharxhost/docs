@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API Endpoints/Info.md",
+            "file": "API Endpoints/Stats.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Endpoints/Info.md",
+                "file": "API Endpoints/Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,15 @@
   },
   "active": "02e2a83a0e918868",
   "lastOpenFiles": [
+    "API Endpoints/Stats.md",
+    "templates/API Endpoint.md",
     "API Endpoints/Info.md",
+    "Untitled.md",
     "API Endpoints/Index.md",
     "API Endpoints/API Docs.md",
-    "templates/API Endpoint.md",
     "Index.md",
     "API.md",
     "API Endpoints.md",
-    "templates/Model.md",
-    "Untitled 1.md"
+    "templates/Model.md"
   ]
 }

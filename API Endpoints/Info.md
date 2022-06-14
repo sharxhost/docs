@@ -1,4 +1,4 @@
-# `GET /api/v1/info`
+# `GET /api/v1/service/info`
 
 Returns the system and backend info
 

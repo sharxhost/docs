@@ -8,6 +8,6 @@ Description
 ## Returns (JSON)
 ```json
 {
-	
+	"success": true,
 }
 ```
