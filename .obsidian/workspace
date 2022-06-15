@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "02e2a83a0e918868",
+        "id": "16b7d80417c01422",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API Endpoints/Stats.md",
+            "file": "API Endpoints/Upload image.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.0036334991455
   },
   "right": {
     "id": "479ecfd5d1f5262e",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API Endpoints/Stats.md",
+                "file": "API Endpoints/Upload image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02e2a83a0e918868",
+  "active": "16b7d80417c01422",
   "lastOpenFiles": [
-    "API Endpoints/Stats.md",
-    "templates/API Endpoint.md",
-    "API Endpoints/Info.md",
+    "API Endpoints/Upload image.md",
+    "API Endpoints/Image metadata.md",
+    "API Endpoints/Untitled.md",
     "Untitled.md",
+    "DB Models/Image model.md",
+    "API Endpoints/Image.md",
+    "API Endpoints/Stats.md",
     "API Endpoints/Index.md",
-    "API Endpoints/API Docs.md",
-    "Index.md",
-    "API.md",
-    "API Endpoints.md",
-    "templates/Model.md"
+    "API Endpoints/Info.md",
+    "API Endpoints/API Docs.md"
   ]
 }

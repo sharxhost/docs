@@ -1,6 +1,6 @@
-# SharX
+# SharX Docs
 
-An open-source ShareX uploader & more
+SharX is an open-source ShareX uploader & more
 
 ## API
 
