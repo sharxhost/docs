@@ -1,4 +1,4 @@
-# `POST /api/v1/image/upload`
+# `POST /image/upload`
 
 Upload a new image to the service
 

@@ -1,4 +1,4 @@
-# `GET /api/v1/image/:id`
+# `GET /image/:id`
 
 Returns the raw image with the given ID
 

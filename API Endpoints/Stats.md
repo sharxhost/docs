@@ -1,4 +1,4 @@
-# `GET /api/v1/service/stats`
+# `GET /service/stats`
 
 Returns the service stats
 
