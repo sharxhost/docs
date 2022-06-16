@@ -11,7 +11,7 @@ Returns all the metadata of the image
 	"success": true,
 	"id": "aaaaaaaa",          // the image's id
 	"name": "image.png",       // the image's filename
-	"upload_time": 1655323171, // the image's upload timestamp
+	"uploaded": 1655323171, // the image's upload timestamp
 	"size": 1048576,           // the image's file size in bytes
 	"hash": "077306..."        // a 64-character hash of the image (more info in the image db model)
 }
