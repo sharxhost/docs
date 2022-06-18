@@ -2,7 +2,8 @@
 Stores an uploaded image's metadata
 
 ## Columns
-- ID - Unique image ID (8 characters)
+- ShortID - Short image ID (8 characters)
+- UUID - The image UUID (v4)
 - Name - The image's filename
 - Uploaded - The timestamp of when the image was uploaded
 - Size - The image's size in B (bytes)

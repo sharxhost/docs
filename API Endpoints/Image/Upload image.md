@@ -12,7 +12,8 @@ The raw image data
 ```json
 {
 	"success": true,
-	"id": "aaaaaaaa"  // the 8-character image id
+	"shortid": "aaaaaaaa",  // the 8-character image id
+	"uuid": "aaaa..."       // the v4 uuid of the image
 }
 ```
 
