@@ -1,4 +1,4 @@
-# `GET /image/:id/metadata`
+# `GET /image/:id/meta`
 
 Returns all the metadata of the image
 
