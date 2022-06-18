@@ -9,7 +9,7 @@ Returns all the metadata of the image
 ```json
 {
 	"success": true,
-	"longid": "aaaaaaaa",      // the image's 8-char short id
+	"shortid": "aaaaaaaa",     // the image's 8-char short id
 	"uuid": "aaaaaaaa",        // the image's uuid
 	"name": "image.png",       // the image's filename
 	"uploaded": 1655323171,    // the image's upload timestamp
