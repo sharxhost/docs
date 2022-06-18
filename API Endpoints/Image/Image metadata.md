@@ -17,3 +17,5 @@ Returns all the metadata of the image
 	"hash": "077306..."        // a 64-character hash of the image (more info in the image db model)
 }
 ```
+
+For more info, see [[Image model]].
