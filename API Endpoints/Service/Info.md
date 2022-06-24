@@ -9,7 +9,11 @@ None
 ```json
 {
 	"success": true,
-	"gitver": "aaaaaaa",  // backend git commit hash
-	"name": "SharX"       // custom service name
+	"git": {                 // backend git info
+		"commit": "aaaaa...",
+		"tag": "vxx",
+		"branch": "master"
+	},
+	"name": "SharX"          // custom service name
 }
 ```
