@@ -11,8 +11,9 @@ None
 	"success": true,
 	"git": {                 // backend git info
 		"commit": "aaaaa...",
-		"tag": "vxx",
-		"branch": "master"
+		"tag": "v1.0.0",
+		"branch": "master",
+		"semver": [1, 0, 0]
 	},
 	"name": "SharX"          // custom service name
 }
