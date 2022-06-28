@@ -5,8 +5,8 @@ Upload a new image to the service
 ## URL parameters
 None
 
-## Request body
-The raw image data
+## Request body (multipart/form-data)
+- `image` - the image data
 
 ## Returns (JSON)
 ```json
