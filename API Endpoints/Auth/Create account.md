@@ -6,9 +6,12 @@ Creates a new user account
 None
 
 ## Request body (JSON)
-- `username` - a string; maximum length: 16; usable characters: `a`-`z`, `A`-`Z`, `0`-`9`, `_`, `-`
+- `username` - a string; maximum length: 16; minimum length: 3; usable characters: `a`-`z`, `A`-`Z`, `0`-`9`, `_`, `-`
 - `password` - the cleartext password (will be encrypted on the server)
 - `email` - the user's email
+
+## Headers
+- `Content-Type: application/json`
 
 ## Returns (JSON)
 ```json
