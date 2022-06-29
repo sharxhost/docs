@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DB Models/User model.md",
+            "file": "DB Models/UploadKey model.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB Models/User model.md",
+                "file": "DB Models/UploadKey model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "16b7d80417c01422",
   "lastOpenFiles": [
-    "DB Models/User model.md",
+    "DB Models/UploadKey model.md",
+    "DB Models/Image model.md",
+    "API Endpoints/Auth/Log in.md",
     "API Endpoints/Auth/Create account.md",
+    "DB Models/User model.md",
     "API Endpoints/Service/Info.md",
     "templates/API Endpoint.md",
     "API Endpoints/Index.md",
     "templates/DB Model.md",
-    "API Endpoints/Image/Upload image.md",
-    "API Endpoints/Image/Image metadata.md",
-    "API Endpoints/Image/Image.md",
-    "API Endpoints/Untitled.md"
+    "API Endpoints/Image/Upload image.md"
   ]
 }
