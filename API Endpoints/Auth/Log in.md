@@ -1,4 +1,4 @@
-# `POST /api/v1/auth/login`
+# `POST /auth/login`
 
 Logs in with the provided credentials
 

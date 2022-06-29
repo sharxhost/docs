@@ -1,4 +1,4 @@
-# `VERB /api/v1/url`
+# `VERB /url`
 
 Description
 

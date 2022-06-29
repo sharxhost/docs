@@ -1,4 +1,4 @@
-# `POST /api/v1/auth/create`
+# `POST /auth/create`
 
 Creates a new user account
 
