@@ -2,9 +2,6 @@
 
 Returns the service stats
 
-## URL parameters
-None
-
 ## Returns (JSON)
 ```json
 {

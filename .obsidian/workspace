@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/API Endpoint.md",
+            "file": "DB Models/AuthJWT model.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "none",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.0036334991455
+    "width": 250.0036334991455
   },
   "right": {
     "id": "479ecfd5d1f5262e",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/API Endpoint.md",
+                "file": "DB Models/AuthJWT model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "16b7d80417c01422",
   "lastOpenFiles": [
-    "templates/API Endpoint.md",
-    "API Endpoints/Service/Stats.md",
-    "API Endpoints/Service/Info.md",
-    "API Endpoints/Image/Upload image.md",
-    "API Endpoints/Image/Image metadata.md",
-    "API Endpoints/Image/Image.md",
-    "API Endpoints/Auth/Log in.md",
-    "API Endpoints/Auth/Create account.md",
+    "DB Models/AuthJWT model.md",
+    "DB Models/UploadKey model.md",
     "DB Models/User model.md",
-    "DB Models/UploadKey model.md"
+    "DB Models/Image model.md",
+    "API Endpoints/User/Revoke upload key.md",
+    "API Endpoints/User/Get upload keys.md",
+    "API Endpoints/User/Untitled.md",
+    "API Endpoints/User/Info.md",
+    "API Endpoints/Auth/Create account.md",
+    "API Endpoints/User/Create upload key.md"
   ]
 }

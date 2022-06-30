@@ -2,9 +2,6 @@
 
 Returns the system and backend info
 
-## URL parameters
-None
-
 ## Returns (JSON)
 ```json
 {

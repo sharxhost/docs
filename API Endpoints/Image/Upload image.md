@@ -2,11 +2,11 @@
 
 Upload a new image to the service
 
-## URL parameters
-None
-
 ## Request body (multipart/form-data)
 - `image` - the image data
+
+## Headers
+- `Authorization: Bearer aaaa...` - the user's jwt token
 
 ## Returns (JSON)
 ```json

@@ -2,9 +2,6 @@
 
 API index
 
-## URL parameters
-None
-
 ## Returns (JSON)
 ```json
 {

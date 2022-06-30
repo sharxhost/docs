@@ -2,9 +2,6 @@
 
 Logs in with the provided credentials
 
-## URL parameters
-None
-
 ## Request body (JSON)
 - `email` - the user's email
 - `password` - the cleartext password (will be encrypted on the server)

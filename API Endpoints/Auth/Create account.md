@@ -2,9 +2,6 @@
 
 Creates a new user account
 
-## URL parameters
-None
-
 ## Request body (JSON)
 - `username` - a string; maximum length: 16; minimum length: 3; usable characters: `a`-`z`, `A`-`Z`, `0`-`9`, `_`, `-`
 - `password` - the cleartext password (will be encrypted on the server)

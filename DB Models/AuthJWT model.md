@@ -1,7 +1,7 @@
-# UploadKey
-Stores an upload key
+# AuthJWT
+Stores an authentication token
 
 ## Columns
 - User - A relation to the owner ([[User model]])
 - UserID - The owner's UUID
-- Key - The actual key's text
+- Token - The actual token's text
