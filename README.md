@@ -1,3 +1,5 @@
+# == outdated ==
+
 # SharX Docs
 
 SharX is an open-source ShareX uploader & more
